@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberWarrior2002
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer Engineering 2nd Year
+- 🌱 I’m a masters Student at NCI
 - 📫 How to reach me prathamshah02@gmail.com
 
 <!---
